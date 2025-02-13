@@ -18,7 +18,7 @@ Um editor de texto para editar e trabalhar com os arquivos no repositório.
 [VSCode](https://code.visualstudio.com/)
 
 Um gerenciador de projectos
-[Composer]([https://getcomposer.org/download]
+[Composer](https://getcomposer.org/download)
 
 Criar uma base de dados com nome Crud.
 
