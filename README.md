@@ -1,6 +1,8 @@
 # crud-app
  back-end app lojistas
 
+## documentação do sistema
+[Insomnia]([DOC](https://documenter.getpostman.com/view/25878180/2sAYXCmKcj#d99f70e4-71c3-414e-a132-92807526f13f)
 
 
 ## 🚀 Como executar o projeto
