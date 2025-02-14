@@ -36,7 +36,7 @@ class ProductController extends Controller
         $product ->price =$req->price;
         $product ->category =$req->category;
         $product ->save();
-        $saveProduct = Product::finder($req->id);
+        $saveProduct = Product::find($product->id);
         if ($saveProduct) {
             return response()->json(["Msg"=>"Produto salvo  ",
                "Produto"=>$product
